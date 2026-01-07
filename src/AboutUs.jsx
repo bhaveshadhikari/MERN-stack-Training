@@ -1,7 +1,7 @@
 // About Us Section
 import React from "react";
 
-function AboutUsSection() {
+function AboutUs() {
   return (
     <section id="about" className="about-us-section">
       <div className="section-container">
@@ -44,4 +44,4 @@ function AboutUsSection() {
   );
 }
 
-export default AboutUsSection;
+export default AboutUs;
